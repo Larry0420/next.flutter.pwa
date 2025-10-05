@@ -1,0 +1,38 @@
+# Flutter/Dart
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+.pub-cache/
+build/
+coverage/
+
+# IDE
+.vscode/
+.idea/
+.DS_Store
+*.swp
+*.log
+
+# Android
+android/.gradle/
+android/app/build/
+android/local.properties
+android/key.properties
+
+# iOS
+ios/Pods/
+ios/Flutter/flutter_export_environment.sh
+ios/Flutter/App.framework
+ios/Flutter/Flutter.framework
+ios/build/
+
+# Web build outputs (keep ignored unless you intentionally deploy built files)
+build/web/
+# If you accidentally committed generated files under /web, you can ignore them too:
+# web/flutter_bootstrap.js
+# web/flutter_service_worker.js
+# web/main.dart.js
+# web/version.json
+# web/assets/
+# web/canvaskit/
