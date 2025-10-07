@@ -27,7 +27,7 @@ ios/Flutter/Flutter.framework
 ios/build/
 
 # Web build outputs (keep ignored unless you intentionally deploy built files)
-build/web/
+
 # If you accidentally committed generated files under /web, you can ignore them too:
 # web/flutter_bootstrap.js
 # web/flutter_service_worker.js
