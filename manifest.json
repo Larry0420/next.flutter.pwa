@@ -1,13 +1,20 @@
 {
-    "name": "snake_app",
-    "short_name": "snake_app",
+    "name": "Light Rail Transit - Next Train",
+    "short_name": "LRT Next Train",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#1976D2",
     "theme_color": "#1976D2",
-    "description": "A new Flutter project.",
+    "description": "Hong Kong MTR Light Rail next train information with real-time schedules and route planning.",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
+    "lang": "zh-HK",
+    "scope": "/",
+    "categories": [
+        "transportation",
+        "travel",
+        "utilities"
+    ],
     "icons": [
         {
             "src": "icons/Icon-192.png",
